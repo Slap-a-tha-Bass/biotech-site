@@ -14,7 +14,7 @@ export default function Navbar() {
               /> */}
             </div>
           </div>
-          <h2 className="text-4xl text-sky-800">Biotech News |</h2>
+          <h2 className="text-4xl text-sky-600">Biotech News |</h2>
         </div>
       </div>
     </nav>
